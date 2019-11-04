@@ -1,1 +1,12 @@
-This is gittest 5 program
+//This is gittest 5 program
+
+package Common.sampletest
+
+public class test5{
+
+  public static void main(srting() srgs)
+    {
+      system.out.println("Hello Yuvan/Nihal");
+    }
+    
+   }
