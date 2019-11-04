@@ -1,10 +1,10 @@
 //This is gittest 5 program
 
-package Common.sampletest
+package com.ss
 
 public class test5{
 
-  public static void main(srting() srgs)
+  public static void main(Srting() args)
     {
       system.out.println("Hello Yuvan/Nihal");
     }
