@@ -1,0 +1,11 @@
+package com.ss
+
+public class test5{
+
+  public static void main(Srting() args)
+    {
+      system.out.println("Hello Yuvan/Nihal");
+      system.out.println("Hi Mom/Dad");	
+    }
+    
+   }
