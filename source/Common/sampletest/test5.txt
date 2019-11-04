@@ -1,5 +1,3 @@
-//This is gittest 5 program
-
 package com.ss
 
 public class test5{
